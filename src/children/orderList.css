@@ -1,0 +1,52 @@
+.wy-header{ height:44px; border-bottom:1px solid #e1e1e1; position:relative;}
+.wy-header-icon-back{position: absolute; left:0; top:0; width: 40px;height: 44px; }
+.wy-header-icon-back span {width:20px;height:20px; margin: 12px 0 0 10px; background:url(../assets/images/icon-back.png) no-repeat; background-size:20px; display:block;}
+.wy-header-title{margin: 0 50px;text-align: center;height: 44px;line-height: 44px;font-size: 16px; color:#252525;}
+.promotion-label-tit img{width:80%;}
+.wy-media-box.address-select{margin-top:0; background:url(../assets/images/location-border.png) repeat-x left bottom #fff; border-bottom:0; background-size:auto 3px;}
+.order-list{background: #fff;border-bottom: 1px solid #999;}
+.address-txt{font-size:13px; color:#232323; line-height:18px;}
+.address-name{font-size:15px; font-weight:bold; color:#232323;}
+.address-name span{margin-right:10px;}
+
+.ord-pro-link{font-size:14px; font-weight:normal; color:#232323;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;word-wrap: normal;word-wrap: break-word;word-break: break-all; line-height:1.8; display:block;}
+.wy-pro-pri.ord-pri{padding:0 0 5px 0;}
+.sitem-tip{padding:2px 6px;background: #e21323;color: #fff;font-size:12px;font-style: normal;}
+.pd-10{padding:10px;}
+.clear{overflow: hidden;}
+.mg-t-10{margin-top:10px;}
+.mg10-0{margin:10px 0;}
+.mg-r-10{margin-right:10px;}
+.mg10{margin:10px;}
+.red{color:#E21323;font-weight: bold;}
+.weui-content{background:#f5f5f5;}
+.clearfix{clear:both; display:block;}
+.clear:after,.clear:before{clear:both; display:block; content:"";}
+.num{font-family:Arial, Helvetica, sans-serif;}
+.t-c{text-align:center;}
+.t-r{text-align:right;}
+
+
+.txt-color-ml{color:#586c94;}
+.txt-color-red{color:#e21323;}
+.yellow-color{background-color:#ffb03f;}
+.gray-color{background-color:#ddd;}
+.red-color{background-color:#e21323;}
+.weui-icon-success{color:#15C8DA;}
+
+.font-b{font-weight:bold;}
+.font-12{font-size:12px;}
+.font-13{font-size:12px;}
+.font-14{font-size:14px; font-weight:normal;}
+.font-15{font-size:15px;}
+.font-16{font-size:16px;}
+.font-20{font-size:20px;}
+.mg-tb-5{margin:5px 0 !important;}
+
+
+.w-100{width:100px;}
+.w-90{width:90px;}
+.w-80{width:80px;}
+
+.fl{float:left;}
+.fr{float:right;}

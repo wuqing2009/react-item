@@ -1,0 +1,15 @@
+.save-btn {
+    background: mediumseagreen;
+    border-radius: 5px;
+    width: 90%;
+    display: block;
+    margin: 20px auto;
+    height: 46px;
+    line-height: 46px;
+    text-align: center;
+    color: #fff;
+    outline: none; 
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}

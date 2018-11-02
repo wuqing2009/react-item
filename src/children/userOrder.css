@@ -1,0 +1,5 @@
+.center-ordersModule{text-align:center; display:block; padding:10px 0; position:relative;}
+.center-ordersModule .imgicon{display:inline-block; height:24px; text-align:center; margin-bottom:5px;}
+.center-ordersModule .imgicon img{height:24px; width:auto;}
+.center-ordersModule .name{font-size:12px; color:#333;}
+.n{position: absolute;top:5px;right:10px; font-size:10px;}

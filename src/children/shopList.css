@@ -1,0 +1,39 @@
+
+.shop-list{
+    float: left;
+    width:49%;
+    padding-left: 7px;
+    margin-bottom: 6px;
+}
+.product{
+    background: #fff;
+    border:1px solid #DFDFDF;
+
+}
+.product img{
+    display: block;
+    width:90%;
+    height:165px;
+    margin:10px auto;
+}
+.product a{
+    color: #333333;
+}
+.jieshao{
+    padding: 0 5%;
+    height:50px;
+    line-height: 25px;
+    overflow: hidden;
+}
+.jiage{
+    margin:5px 0 10px;
+    padding: 0 5%;
+    color: #DD0707;
+    position: relative;
+}
+.jiage span{
+    color: #A9A9A9;
+    font-size:12px;
+    position: absolute;
+    right:5%;
+}

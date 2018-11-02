@@ -1,0 +1,26 @@
+.my-swipe {
+    height: 140px;
+    color: #fff;
+    width: 100%;
+  }
+  .banner .my-swipe .is-active{background:red;opacity: 1;}
+  .my-swipe a{
+      width:100%;
+      height:150px;
+      min-height: 100px;
+      background: red;
+      display: block;
+  }
+  .my-swipe a img{
+      display: inline-block;
+      width:100%;
+      height:150px;
+  }
+  .swipe {
+    overflow: hidden;
+    position: relative;
+    height:150px;
+    background: red;
+
+  }
+  

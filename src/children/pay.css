@@ -1,0 +1,34 @@
+.pay{
+    /* display: none; */
+    overflow: hidden;
+    position: fixed;
+    z-index: 1;
+    bottom: 55px;
+    width:100%;
+    height: 40px;
+    line-height: 40px;
+}
+.pay p,.pay a{
+    display: block;
+    float: left;
+}
+.pay a{
+    float: right;
+}
+.pay p{
+    background: #fff;
+    padding-left: 10px;
+    border-top: 1px solid #EEEEEE;
+    font:14px "Microsoft yahei",Arial;
+    height:40px;
+    line-height: 40px;
+}
+.pay p span{
+    color: #DD0707;
+}
+.pay a{
+    width:80px;
+    background: #FF3B30;
+    color: #fff;
+    text-align: center;
+}

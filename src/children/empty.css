@@ -1,0 +1,31 @@
+.empty{
+    margin-top: 55px;
+
+}
+.empty img{
+    display: block;
+    width:120px;
+    height:120px;
+    margin: 20px auto;
+}
+.empty p{
+    text-align: center;
+}
+.sle{
+    height:30px;
+    line-height: 30px;
+    font-size: 12px;
+    color: #969696;
+}
+.empty a{
+    display: block;
+    width:115px;
+    height:30px;
+    line-height: 28px;
+    background: #FDE3E3;
+    color: #ED3036;
+    border:1px solid #ED3036;
+    text-align: center;
+    margin:10px auto;
+    border-radius: 5px;
+}

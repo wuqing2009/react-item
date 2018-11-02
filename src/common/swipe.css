@@ -1,0 +1,9 @@
+.hot_sale .hot_commodity{
+    color: #323232;
+    background: #F0F0F0;
+    font-weight: 600;
+    padding:3px 0 3px 10px;
+}
+.hot_commodity span{float: right; padding: 0 3px;}
+.hot_commodity span:first-child{margin-right: 20px}
+.hot_sale_show{overflow: hidden}

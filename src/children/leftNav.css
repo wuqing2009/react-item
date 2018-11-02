@@ -1,0 +1,17 @@
+.left-nav{
+    width:26%;
+    overflow-y: scroll;
+    background: #EFEFF4;
+    float: left;
+}
+.left-nav li{
+    width:100%;
+    background: #fff;
+    padding: 10px 0 10px 10px;
+    border-bottom: 1px solid #EEEEEE;
+
+}
+.left-nav li.current{
+    color: #ED2F38;
+    background: #EFEFF4;
+}

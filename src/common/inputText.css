@@ -1,0 +1,15 @@
+.input-text{
+    height:50px;
+    zoom:1;
+    border-bottom:1px solid #b1b1b1;
+    background-color:#fff;
+}
+.input-text .leftBox{
+    line-height: 50px;
+    float:left;
+    font-weight: bold;
+}
+.input-text .rightBox{
+    line-height: 50px;
+    float: right;
+} 

@@ -1,0 +1,21 @@
+export default {
+  bFoot:true,
+  bLoading:false,
+  login:false,
+  user:{
+      car:[]
+  },
+  home:{},
+  t1:[],
+  t2:[],
+  t3:[],
+  banner:[],
+  buy:{onoff:false,to:"/buy_car"},
+  list:[],
+  all:[],
+  start:0,
+  count:30,
+  det:{},
+  check:false,
+  more:true
+}

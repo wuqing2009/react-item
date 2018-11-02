@@ -1,0 +1,109 @@
+.mask{
+	width:100%;
+	position: fixed;
+	left:0;
+	top:0;
+	background: rgba(0,0,0,0.5);
+	bottom: 0;
+    z-index: 10;
+}
+.x{
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    border: 1px solid red;
+    border-radius: 50%;
+    top: 5px;
+    right: 5px;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    line-height: 31px;
+}
+.affirm{
+    background: #fff;
+    /* display: none; */
+    position: fixed;
+    left: 0;
+    bottom: 82px;
+    z-index: 11; 
+    width: 100%; 
+    height: 287px; 
+}
+.affirm_up{
+    width:100%;
+    padding: 15px 25px 15px 10px;
+    border-bottom: 1px solid #DCDCDC;
+    overflow: hidden;
+}
+.img_box{
+    width:80px;
+    height:80px;
+}
+.img_box img{
+    display: block;
+    width:80px;
+    height:80px;
+}
+.affirm_jieshao{
+    padding: 8px 10px;
+    margin-bottom: 2px;
+}
+.affirm_introduce{
+    height:48px;
+    overflow: hidden;
+}
+.total{
+    font-family: "Microsoft yahei",Arial;
+    color: #DF1717;
+}
+.affirm_down{
+    padding: 15px;
+    background: #fff;
+}
+.norms{
+    margin-bottom:20px;
+}
+.norms p{
+    margin-bottom: 15px;
+}
+.norms a{
+    display: inline-block;
+    height:25px;
+    line-height: 25px;
+    text-align: center;
+    padding: 0 10px;
+    border-radius: 5px;
+    background: #ED3036;
+    color: #fff;
+}
+
+.affirm_num button{
+    width:25px;
+    height:25px;
+    background: #fff;
+    border:1px solid #C8C8C8;
+    outline: none;
+}
+.affirm_num button:first-child{
+    margin-left: 8px;
+}
+
+.affirm_num>span{
+    display: inline-block;
+    width:50px;
+    height:25px;
+    background: #fff;
+    border:1px solid #C8C8C8;
+    text-align: center;
+    line-height: 23px;
+    margin:0 1px;
+}
+.affirm_ok{
+    display: block;
+    height:40px;
+    line-height: 36px;
+    text-align: center;
+    background: #FF3B30;
+    color: #fff;
+}

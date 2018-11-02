@@ -1,0 +1,9 @@
+.fx{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+    /* height: 89px; */
+  }
+  .prolist{margin-top: 89px;margin-bottom: 55px;overflow: hidden;}
+.more{font-size: 16px;font-weight: bold; width: 40%;height: 40px;border-radius: 0 0 50% 50%;border: 1px solid #ccc;background: greenyellow;text-align: center;line-height: 40px;margin: 0 auto;}

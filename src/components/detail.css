@@ -1,0 +1,9 @@
+.detail .my-swipe{
+    margin-top:44px;
+    height:300px;
+}
+.detail .my-swipe img{
+    display: block;
+    width:100%;
+    height:300px;
+}

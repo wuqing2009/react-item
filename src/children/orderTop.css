@@ -1,0 +1,12 @@
+
+.promotion-label-tit img{width:80%;}
+.wy-media-box.address-select{margin-top:0; background:url(../assets/images/location-border.png) repeat-x left bottom #fff; border-bottom:0; background-size:auto 3px;}
+
+.address-txt{font-size:13px; color:#232323; line-height:18px;}
+.address-name{font-size:15px; font-weight:bold; color:#232323;}
+.address-name span{margin-right:10px;}
+
+.ord-pro-link{font-size:14px; font-weight:normal; color:#232323;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;word-wrap: normal;word-wrap: break-word;word-break: break-all; line-height:1.8; display:block;}
+.wy-pro-pri.ord-pri{padding:0 0 5px 0;}
+.sitem-tip{padding:2px 6px;background: #e21323;color: #fff;font-size:12px;font-style: normal;}
+.order-top{margin-bottom: 20px}

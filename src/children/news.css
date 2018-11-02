@@ -1,0 +1,5 @@
+.wy-ind-news{padding:10px 40px; height:18px; line-height:18px; overflow:hidden; background:#fff; border-top:1px solid #e9e9e9; border-bottom:1px solid #e9e9e9; font-size:12px; position:relative;}
+.wy-ind-news a{color:#888; overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical;}
+.wy-ind-news a.newsmore{display:block; width:40px; height:34px; position:absolute; right:0; top:0; }
+.news-icon-laba{width:18px; height:18px; display:inline-block; position:absolute; left:10px; top:10px; }
+.news-icon-more{width:18px; height:18px; display:inline-block; position:absolute; right:10px; top:10px; }

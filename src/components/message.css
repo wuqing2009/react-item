@@ -1,0 +1,157 @@
+.y{
+    float: right;
+}
+.z{
+    float:left;
+}
+.MaxTitle{
+    overflow: hidden;
+    width:100%;
+    background-color:#262626;
+    height:50px;
+    text-align:center;
+    color:#fff;
+    position: relative;
+}
+.MaxMenu{
+    height:40px;
+    margin:5px 0;
+    position:absolute;
+    right:0;
+    top:0;
+    float: right;
+}
+.MaxTitleText{
+    float: left;
+    width:80px;
+   position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin:auto;
+    height:30px;
+    line-height: 30px;
+}
+.Max{
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background-color: #efeff4;
+}
+/*****messageDiv开始*******/
+.messageDiv{
+    /*display:none;*/
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+    overflow:auto;
+    background-color: #efeff4;
+}
+
+.Return{
+    float:left;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    margin-top: 12px;
+    margin-left: 4%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.messageDivReturn{
+    float:left;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    margin-top: 12px;
+    margin-left: 4%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+ .basisBox,.bank{
+    width:100%;
+    background-color:#efeff4;
+}
+.basisBox>div,.bank>div{
+    width:100%;
+    margin:auto;
+    text-indent:2%;
+}
+.basisBoxTitle,.bankTitle{
+    margin:10px;
+    color: #787878;
+    text-align:left;
+}
+.headImg{
+    height:85px;
+    zoom:1;
+    margin:5px 0;
+    background-color:#fff;
+    border-bottom:1px solid #b1b1b1;
+}
+.headImgText{
+    line-height: 70px;
+}
+.headImgBox{
+    margin-top:10px;
+    margin-right:10px;
+}
+.headImgBox img{
+    width:70px;
+    height:70px;
+}
+.smallBox{
+    height:50px;
+    zoom:1;
+    border-bottom:1px solid #b1b1b1;
+    background-color:#fff;
+}
+.leftBox{
+    line-height: 50px;
+}
+.rightBox{
+    line-height: 50px;
+} 
+.saveBtn{
+    width:90%;
+    color:#fff;
+    text-align: center;
+    line-height: 35px;
+    height:35px;
+    border-radius:5px;
+    background-color: #ff3c32;
+    margin:auto;
+    display: block;
+    border:0px;
+    outline:none;
+}
+.blank_15{
+    height:15px;
+}
+/*****messageDiv结束*******/
+.basisBox input{
+    width: 100px;
+    outline: none;
+}
+.basisBox .rightBox{
+    margin-right:10px;
+}
+.day input{
+    width: 50px;
+}
+.basisBox .z{
+    font-weight:bold;
+}
+.VipNum .rightBox p{
+    color:#cecece;
+}
+

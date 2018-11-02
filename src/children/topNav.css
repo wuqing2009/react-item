@@ -1,0 +1,47 @@
+.top-nav{
+    text-align: center;
+    background: #DCDCDC;
+    overflow: hidden;
+}
+.top-nav a{
+    display: block;
+    color: #747474;
+    float: left;
+    width:25%;
+    height:40px;
+    line-height: 40px;
+    border-bottom: 1px solid #BB0200;
+}
+.top-nav a:not(:last-child){
+    background: url(../assets/images/line-row.jpg) right center no-repeat;
+    background-size: 2%;
+}
+.top-nav a.active{
+    color: #C40000;
+    border-bottom: 3px solid #C40000;
+}
+.top-nav .sort{
+    display: inline-block;
+    position: relative;
+    top:6px;
+}
+.top-nav .sort .sort_up,.top-nav .sort .sort_down{
+    width:0;height:0;
+    border:5px solid transparent;
+}
+.top-nav .price{padding: 0;margin: 0;}
+.top-nav .sort .sort_up{
+    border-bottom-color: #A0A0A0;
+
+}
+
+.top-nav .sort .sort_down{
+    border-top-color: #A0A0A0;
+    margin-top: 2px;
+}
+.top-nav .sort .active1{
+    border-bottom-color:#BD0000;
+}
+.top-nav .sort .active2{
+    border-top-color:#BD0000;
+}
